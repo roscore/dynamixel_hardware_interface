@@ -35,6 +35,7 @@ Number	Name
 1120	xm540_w270.model
 1130	xm540_w150.model
 1140	xh540_v270.model
+1141	xh540_v270_r.model
 1150	xh540_v150.model
 1160	2xc430_w250.model
 1170	xw540_t260.model
@@ -48,6 +49,11 @@ Number	Name
 1270	xw430_t333.model
 1310	xw540_h260.model
 2000	ph42_020_s300.model
+2001	ph42_020_s300_r.model
+2010	ph54_100_s500.model
+2011	ph54_100_s500_r.model
+2020	ph54_200_s500.model
+2021	ph54_200_s500_r.model
 4000	ym070_210_m001.model
 4020	ym070_210_r051.model
 4030	ym070_210_r099.model
